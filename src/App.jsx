@@ -53,7 +53,7 @@ function App() {
       <BackToTop />
 
       <footer className="text-center py-8 text-gray-600 dark:text-gray-400">
-        © {new Date().getFullYear()} Idoteyin Ubaba. Made with ❤️ React & Tailwind
+        © {new Date().getFullYear()} Idoteyin Ubaha. Made with ❤️ React & Tailwind
       </footer>
     </div>
   );
