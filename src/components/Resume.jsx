@@ -35,7 +35,7 @@ const ResumeModal = ({ show, onClose }) => {
               className="flex-1 w-full h-full border-none"
             /> */}
             <iframe
-  src="/resume.pdf"
+  src="/resume2.pdf"
   width="100%"
   height="600px"
   title="Resume Preview"
