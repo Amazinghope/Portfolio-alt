@@ -46,7 +46,7 @@ const ResumeModal = ({ show, onClose }) => {
             {/* Footer with Download button */}
             <div className="p-4 border-t dark:border-gray-700 text-center">
               <a
-                href="/resume.pdf"
+                href="/resume2.pdf"
                 download
                 className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 dark:bg-blue-500 dark:hover:bg-blue-400"
               >
