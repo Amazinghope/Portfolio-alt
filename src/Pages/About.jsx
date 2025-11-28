@@ -20,10 +20,15 @@ const About = () => {
         viewport={{ once: true }}
         className="text-gray-600 dark:text-gray-300 "
       >
-        I’m a passionate Fullstack Developer with a love for building modern, responsive web 
-        applications. I specialize in crafting intuitive user interfaces and seamless user 
-        experiences using React and Tailwind CSS. Continuously learning and exploring new technologies,
-         I strive to create applications that are both functional and visually engaging.      </motion.p>
+    I am a Fullstack Developer with experience building responsive and user-focused
+     web applications. On the frontend, I work with HTML, CSS, React, and Tailwind 
+     CSS to create clean and functional interfaces. 
+     
+     On the backend, I use Node.js and Express and follow the MVC architecture to
+      keep applications organized and maintainable. I also build RESTful APIs, work 
+      with MongoDB, and use Git and Render for version control and deployment.
+I enjoy learning new tools and improving my skills so I can contribute to projects
+ in a reliable and effective way across the full development stack.      </motion.p>
     </section>
   );
 };
