@@ -31,7 +31,7 @@ const Hero = () => {
         transition={{ duration: 0.8, delay: 0.2 }}
         className="text-gray-600 dark:text-gray-300 mb-8"
       >
-        Full-Stack Developer | React Enthusiast | UI/UX Explorer| Api Creator
+        Full-Stack Developer | React, HTML & CSS | Node.js & APIs | Responsive Web Apps
       </motion.p>
 
       <div className="flex gap-4">
